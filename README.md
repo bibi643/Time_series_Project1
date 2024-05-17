@@ -19,9 +19,9 @@ This dataset shows the record of 3 sensors every minutes during a month. This pr
 - 
 
 ## Data Analysis/visualization
--[] Missing values treatments.
--[] Behaviour of sensors individually/as a group.
--[] Future predictions
+- [] Missing values treatments.
+- [] Behaviour of sensors individually/as a group.
+- [] Future predictions
 
 
 ## Code
