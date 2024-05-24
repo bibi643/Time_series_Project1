@@ -14,13 +14,13 @@ This dataset shows the record of 3 sensors every minutes during a month. This pr
 
 # Tasks
 - [] Data Analysis/cleaning
-- [] Data Visualization
+- [x] Data Visualization
 - [] Time Series application
 - 
 
 ## Data Analysis/visualization
-- [] Missing values treatments.
-- [] Behaviour of sensors individually/as a group.
+- [x] Missing values treatments.
+- [x] Behaviour of sensors individually/as a group.
 - [] Future predictions
 
 
