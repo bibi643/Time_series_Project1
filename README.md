@@ -2,7 +2,7 @@
 3 sensors measurements every minute during 24 hours.
 
 ![Static Badge](https://img.shields.io/badge/Time_Series-red) ![Static Badge](https://img.shields.io/badge/Python-green) ![Static Badge](https://img.shields.io/badge/Git-cyan)
-![Static Badge](https://img.shields.io/badge/Darts-black)
+![Static Badge](https://img.shields.io/badge/venv-black)
 
 # Overview
 This dataset shows the record of 3 sensors every minutes during 24 hours. 
