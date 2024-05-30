@@ -13,7 +13,7 @@ This dataset shows the record of 3 sensors every minutes during 24 hours.
 - [x] Work with TimeSeries (object to datetime conversion)
 - [x] Clean Timeseries missing values.
 - [x] Visualize TimeSeriees dataset
-- [] Perform a statistical study of the datas.
+- [x] Perform a statistical study of the datas.
 
 # Repo structure
 - gitignore: ignore the venv folder created by the user.
